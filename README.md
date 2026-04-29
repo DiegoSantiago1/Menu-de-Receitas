@@ -1,3 +1,8 @@
+## 🌐 Acesse o projeto
+
+👉 https://diegosantiago1.github.io/Menu-de-Receitas/
+
+
 # 🍽️ Buscador de Receitas
 
 Aplicação web simples que permite buscar receitas a partir de um ingrediente.
