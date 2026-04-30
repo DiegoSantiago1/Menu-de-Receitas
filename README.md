@@ -1,3 +1,4 @@
+
 ## 🌐 Acesse o projeto
 
 👉 https://diegosantiago1.github.io/Menu-de-Receitas/
@@ -81,7 +82,8 @@ cd Projeto-Receitas
 
 ## 📸 Preview
 
-*(adicione aqui um print do seu projeto depois)*
+<img width="1913" height="982" alt="Menu de Receitas" src="https://github.com/user-attachments/assets/482455a8-9305-4eae-a941-1a42f3002d40" />
+
 
 ---
 
